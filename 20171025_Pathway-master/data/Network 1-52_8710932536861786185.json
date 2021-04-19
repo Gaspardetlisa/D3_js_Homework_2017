@@ -1,0 +1,3997 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Network 1",
+    "name" : "Network 1",
+    "SUID" : 52,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "191",
+        "shared_name" : "C01272",
+        "name" : "C01272",
+        "SUID" : 191,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node130"
+      },
+      "position" : {
+        "x" : -330.88749516193684,
+        "y" : 683.9531321305494
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "shared_name" : "GSR",
+        "name" : "GSR",
+        "SUID" : 190,
+        "node_fillColor" : "#CCCCCC",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node129"
+      },
+      "position" : {
+        "x" : 73.42750727946941,
+        "y" : -621.0470814924975
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "shared_name" : "SULT1E1",
+        "name" : "SULT1E1",
+        "SUID" : 189,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node128"
+      },
+      "position" : {
+        "x" : -186.3044263142806,
+        "y" : 573.8230051774244
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "shared_name" : "3-Methylcrotonyl-CoA",
+        "name" : "3-Methylcrotonyl-CoA",
+        "SUID" : 188,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node127"
+      },
+      "position" : {
+        "x" : -203.05323612873372,
+        "y" : -663.7595448714037
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "shared_name" : "Fatty_acid",
+        "name" : "Fatty_acid",
+        "SUID" : 187,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node126"
+      },
+      "position" : {
+        "x" : 213.3864153605241,
+        "y" : -93.56040241534902
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "shared_name" : "ALDH1B1",
+        "name" : "ALDH1B1",
+        "SUID" : 186,
+        "node_fillColor" : "#0000FF",
+        "Acsl4" : "Atp6v1d",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node125"
+      },
+      "position" : {
+        "x" : 209.975137589528,
+        "y" : -252.77320148761464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "shared_name" : "SMS",
+        "name" : "SMS",
+        "SUID" : 185,
+        "node_fillColor" : "#FF9933",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node124"
+      },
+      "position" : {
+        "x" : -323.9575330037337,
+        "y" : 63.428748585627545
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "shared_name" : "C04063",
+        "name" : "C04063",
+        "SUID" : 184,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node123"
+      },
+      "position" : {
+        "x" : -729.5517407674056,
+        "y" : 718.3244089860182
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "shared_name" : "APRT",
+        "name" : "APRT",
+        "SUID" : 183,
+        "node_fillColor" : "#CCCCCC",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node122"
+      },
+      "position" : {
+        "x" : -564.8321362752181,
+        "y" : 233.7889170426588
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "shared_name" : "INPP1",
+        "name" : "INPP1",
+        "SUID" : 182,
+        "node_fillColor" : "#990099",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node121"
+      },
+      "position" : {
+        "x" : -606.2205640095931,
+        "y" : 685.0941233414869
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "shared_name" : "MDH2",
+        "name" : "MDH2",
+        "SUID" : 181,
+        "node_fillColor" : "#00FFFF",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node120"
+      },
+      "position" : {
+        "x" : -553.4454785603743,
+        "y" : -876.4296803694506
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "shared_name" : "ECHS1",
+        "name" : "ECHS1",
+        "SUID" : 180,
+        "node_fillColor" : "#0000FF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node119"
+      },
+      "position" : {
+        "x" : -116.03676006335287,
+        "y" : -601.8824462890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "shared_name" : "INPP4A",
+        "name" : "INPP4A",
+        "SUID" : 179,
+        "node_fillColor" : "#990099",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node118"
+      },
+      "position" : {
+        "x" : -845.1245557088118,
+        "y" : 737.5465159196119
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "shared_name" : "ACADL",
+        "name" : "ACADL",
+        "SUID" : 178,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node117"
+      },
+      "position" : {
+        "x" : -394.44682133381184,
+        "y" : -530.3973622542162
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "shared_name" : "Spermine",
+        "name" : "Spermine",
+        "SUID" : 177,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node116"
+      },
+      "position" : {
+        "x" : -197.5942212361556,
+        "y" : -31.760582469059955
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "shared_name" : "PNP",
+        "name" : "PNP",
+        "SUID" : 176,
+        "node_fillColor" : "#CCCCCC",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node115"
+      },
+      "position" : {
+        "x" : -812.3664380330306,
+        "y" : 251.23999736492442
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "shared_name" : "ALDH2",
+        "name" : "ALDH2",
+        "SUID" : 175,
+        "node_fillColor" : "#FF0033",
+        "Acsl4" : "B4galt3",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node114"
+      },
+      "position" : {
+        "x" : 198.1184529843631,
+        "y" : -368.86676025390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "shared_name" : "CYP1B1",
+        "name" : "CYP1B1",
+        "SUID" : 174,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node113"
+      },
+      "position" : {
+        "x" : 402.2347582560319,
+        "y" : -734.4924245100756
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "shared_name" : "FADS2",
+        "name" : "FADS2",
+        "SUID" : 173,
+        "node_fillColor" : "#FFFFFF",
+        "Acsl4" : "P4ha1",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node112"
+      },
+      "position" : {
+        "x" : 1247.2129687052507,
+        "y" : -408.37647297198964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "shared_name" : "Arachidonate",
+        "name" : "Arachidonate",
+        "SUID" : 172,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node111"
+      },
+      "position" : {
+        "x" : 1043.502092240407,
+        "y" : -476.1791005354662
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "shared_name" : "LCLAT1",
+        "name" : "LCLAT1",
+        "SUID" : 171,
+        "node_fillColor" : "#00CC00",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node110"
+      },
+      "position" : {
+        "x" : 654.1651781779069,
+        "y" : -79.23908283527089
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "shared_name" : "B4GALT6",
+        "name" : "B4GALT6",
+        "SUID" : 170,
+        "node_fillColor" : "#FFFF00",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node109"
+      },
+      "position" : {
+        "x" : 711.3435229044694,
+        "y" : 525.8135447282057
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "shared_name" : "ADH7",
+        "name" : "ADH7",
+        "SUID" : 169,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node108"
+      },
+      "position" : {
+        "x" : 506.45552241618816,
+        "y" : 305.62946269695567
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "shared_name" : "10-Formyl-THF",
+        "name" : "10-Formyl-THF",
+        "SUID" : 168,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node107"
+      },
+      "position" : {
+        "x" : 735.6749267578125,
+        "y" : -731.9646606445312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "shared_name" : "PTGS2",
+        "name" : "PTGS2",
+        "SUID" : 167,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node106"
+      },
+      "position" : {
+        "x" : 1082.671037552907,
+        "y" : -587.4343190413256
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "shared_name" : "GUSB",
+        "name" : "GUSB",
+        "SUID" : 166,
+        "node_fillColor" : "#009900",
+        "Acsl4" : "St3gal6",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node105"
+      },
+      "position" : {
+        "x" : 164.37384974773113,
+        "y" : 566.3944773453932
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "shared_name" : "MTHFR",
+        "name" : "MTHFR",
+        "SUID" : 165,
+        "node_fillColor" : "#009966",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node104"
+      },
+      "position" : {
+        "x" : 566.5416430216569,
+        "y" : -538.5204701643725
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "shared_name" : "NT5C3",
+        "name" : "NT5C3",
+        "SUID" : 164,
+        "node_fillColor" : "#CCCCCC",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node103"
+      },
+      "position" : {
+        "x" : -683.9933301228743,
+        "y" : 98.40210673992442
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "shared_name" : "3-Aminopropanal",
+        "name" : "3-Aminopropanal",
+        "SUID" : 163,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node102"
+      },
+      "position" : {
+        "x" : 87.96456706340496,
+        "y" : -223.2011952620287
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "shared_name" : "7.METABOLISM_OF_NUCLEOTIDES",
+        "name" : "7.METABOLISM_OF_NUCLEOTIDES",
+        "SUID" : 162,
+        "node_fillColor" : "#CCCCCC",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node101"
+      },
+      "position" : {
+        "x" : 76.63972651775066,
+        "y" : 837.5465159196119
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "shared_name" : "NAMPT",
+        "name" : "NAMPT",
+        "SUID" : 161,
+        "node_fillColor" : "#009966",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node100"
+      },
+      "position" : {
+        "x" : -923.3602734822493,
+        "y" : 63.16437480633067
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "shared_name" : "PLA2G2D",
+        "name" : "PLA2G2D",
+        "SUID" : 160,
+        "node_fillColor" : "#00CC00",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node99"
+      },
+      "position" : {
+        "x" : 1012.8332079630632,
+        "y" : -354.2090611677904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "shared_name" : "Trichloroethanol",
+        "name" : "Trichloroethanol",
+        "SUID" : 159,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node98"
+      },
+      "position" : {
+        "x" : 402.77437007243816,
+        "y" : 415.81403300945567
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "shared_name" : "CDA",
+        "name" : "CDA",
+        "SUID" : 158,
+        "node_fillColor" : "#CCCCCC",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node97"
+      },
+      "position" : {
+        "x" : -377.6725903767806,
+        "y" : 243.29151103679942
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "shared_name" : "C05345",
+        "name" : "C05345",
+        "SUID" : 157,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node96"
+      },
+      "position" : {
+        "x" : 11.372423050953785,
+        "y" : 88.91059062664317
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "shared_name" : "MGST2",
+        "name" : "MGST2",
+        "SUID" : 156,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node95"
+      },
+      "position" : {
+        "x" : 210.69391810710613,
+        "y" : -856.8756032210131
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "shared_name" : "Estrone",
+        "name" : "Estrone",
+        "SUID" : 155,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node94"
+      },
+      "position" : {
+        "x" : -59.003309370921215,
+        "y" : 663.2553782242994
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "shared_name" : "SHMT1",
+        "name" : "SHMT1",
+        "SUID" : 154,
+        "node_fillColor" : "#009966",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node93"
+      },
+      "position" : {
+        "x" : 453.2662523966569,
+        "y" : -452.51326801593495
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "shared_name" : "ADH1A",
+        "name" : "ADH1A",
+        "SUID" : 153,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node92"
+      },
+      "position" : {
+        "x" : 447.9042834025163,
+        "y" : 295.7790598649244
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "shared_name" : "UGT1A1",
+        "name" : "UGT1A1",
+        "SUID" : 152,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node91"
+      },
+      "position" : {
+        "x" : 61.09018122966472,
+        "y" : 728.9513621110182
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "shared_name" : "CEL",
+        "name" : "CEL",
+        "SUID" : 151,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node90"
+      },
+      "position" : {
+        "x" : 11.848070023610035,
+        "y" : 221.97510478679942
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "shared_name" : "MTAP",
+        "name" : "MTAP",
+        "SUID" : 150,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node89"
+      },
+      "position" : {
+        "x" : -561.6924878377181,
+        "y" : 288.1364817399244
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "shared_name" : "C05212",
+        "name" : "C05212",
+        "SUID" : 149,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node88"
+      },
+      "position" : {
+        "x" : 903.3793505411882,
+        "y" : -260.5239377241869
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "shared_name" : "PPAP2A",
+        "name" : "PPAP2A",
+        "SUID" : 148,
+        "node_fillColor" : "#00CC00",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node87"
+      },
+      "position" : {
+        "x" : 310.0930803995866,
+        "y" : 116.38867900554942
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "shared_name" : "GALC",
+        "name" : "GALC",
+        "SUID" : 147,
+        "node_fillColor" : "#FFFF00",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node86"
+      },
+      "position" : {
+        "x" : 410.5374926310319,
+        "y" : 158.7543711442213
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "shared_name" : "Linolenate",
+        "name" : "Linolenate",
+        "SUID" : 146,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node85"
+      },
+      "position" : {
+        "x" : 1136.053605912282,
+        "y" : -372.3973851423998
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "shared_name" : "NDUFV1",
+        "name" : "NDUFV1",
+        "SUID" : 145,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node84"
+      },
+      "position" : {
+        "x" : -645.9082471150618,
+        "y" : -949.9991383772631
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "shared_name" : "ADH5",
+        "name" : "ADH5",
+        "SUID" : 144,
+        "node_fillColor" : "#000000",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node83"
+      },
+      "position" : {
+        "x" : 401.5804308634538,
+        "y" : -10.39794208820058
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "shared_name" : "LOC643031",
+        "name" : "LOC643031",
+        "SUID" : 143,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node82"
+      },
+      "position" : {
+        "x" : -511.54350102131184,
+        "y" : -756.1502614241381
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "shared_name" : "Glucuronide",
+        "name" : "Glucuronide",
+        "SUID" : 142,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node81"
+      },
+      "position" : {
+        "x" : 180.9965876322526,
+        "y" : 658.9953074235182
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "shared_name" : "GGT6",
+        "name" : "GGT6",
+        "SUID" : 141,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node80"
+      },
+      "position" : {
+        "x" : 164.94159686382,
+        "y" : -1094.9996876936693
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "shared_name" : "PAPSS2",
+        "name" : "PAPSS2",
+        "SUID" : 140,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node79"
+      },
+      "position" : {
+        "x" : -326.9434949177962,
+        "y" : 467.8858713883619
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "shared_name" : "MTHFD2",
+        "name" : "MTHFD2",
+        "SUID" : 139,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node78"
+      },
+      "position" : {
+        "x" : 798.8722094279069,
+        "y" : -828.5302663069506
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "shared_name" : "3.GLYCEROPHOSPHOLIPID_METABOLISM",
+        "name" : "3.GLYCEROPHOSPHOLIPID_METABOLISM",
+        "SUID" : 138,
+        "node_fillColor" : "#00CC00",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node77"
+      },
+      "position" : {
+        "x" : -124.94741821289062,
+        "y" : 861.9273681640625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "shared_name" : "MINPP1",
+        "name" : "MINPP1",
+        "SUID" : 137,
+        "node_fillColor" : "#990099",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node76"
+      },
+      "position" : {
+        "x" : -254.99091923420247,
+        "y" : 596.7188792008619
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "shared_name" : "cis-3-Chloro-2-propenal",
+        "name" : "cis-3-Chloro-2-propenal",
+        "SUID" : 136,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node75"
+      },
+      "position" : {
+        "x" : 304.46013057048503,
+        "y" : -174.24639942462636
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "shared_name" : "MCCC1",
+        "name" : "MCCC1",
+        "SUID" : 135,
+        "node_fillColor" : "#0000FF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node74"
+      },
+      "position" : {
+        "x" : -363.28656005859375,
+        "y" : -802.0990600585938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "shared_name" : "CDS1",
+        "name" : "CDS1",
+        "SUID" : 134,
+        "node_fillColor" : "#00CC00",
+        "Acsl4" : "Gatm",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node73"
+      },
+      "position" : {
+        "x" : 620.8093126993913,
+        "y" : 30.825843312190045
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "shared_name" : "HADHA",
+        "name" : "HADHA",
+        "SUID" : 133,
+        "node_fillColor" : "#0000FF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node72"
+      },
+      "position" : {
+        "x" : -537.0320434570312,
+        "y" : -642.3070068359375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "shared_name" : "GSH",
+        "name" : "GSH",
+        "SUID" : 132,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node71"
+      },
+      "position" : {
+        "x" : 135.51280772502605,
+        "y" : -744.9836659651537
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "shared_name" : "PC",
+        "name" : "PC",
+        "SUID" : 131,
+        "node_fillColor" : "#00FFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node70"
+      },
+      "position" : {
+        "x" : -443.3625317830306,
+        "y" : -923.2762379866381
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "shared_name" : "LIPC",
+        "name" : "LIPC",
+        "SUID" : 130,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node69"
+      },
+      "position" : {
+        "x" : 196.99960505778972,
+        "y" : 68.88892314617442
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "shared_name" : "8.METABOLISM_OF_VITAMINS_AND_COFACTORS",
+        "name" : "8.METABOLISM_OF_VITAMINS_AND_COFACTORS",
+        "SUID" : 129,
+        "node_fillColor" : "#009966",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node68"
+      },
+      "position" : {
+        "x" : -94.9158706665039,
+        "y" : 918.8162231445312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "shared_name" : "1,2-Diacylglycerol",
+        "name" : "1,2-Diacylglycerol",
+        "SUID" : 128,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node67"
+      },
+      "position" : {
+        "x" : 141.87781178767864,
+        "y" : 203.79874370281505
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "shared_name" : "SN-38",
+        "name" : "SN-38",
+        "SUID" : 127,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node66"
+      },
+      "position" : {
+        "x" : 32.067621110035816,
+        "y" : 495.67133281414317
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "shared_name" : "SMOX",
+        "name" : "SMOX",
+        "SUID" : 126,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node65"
+      },
+      "position" : {
+        "x" : 49.491634368896484,
+        "y" : -144.15621948242188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "shared_name" : "R-S-Glutathione",
+        "name" : "R-S-Glutathione",
+        "SUID" : 125,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node64"
+      },
+      "position" : {
+        "x" : 200.08753382976238,
+        "y" : -981.1589284163256
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "shared_name" : "PPA1",
+        "name" : "PPA1",
+        "SUID" : 124,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node63"
+      },
+      "position" : {
+        "x" : -455.45890629474934,
+        "y" : 363.03595683758067
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "shared_name" : "3-Methylglutaconyl-CoA",
+        "name" : "3-Methylglutaconyl-CoA",
+        "SUID" : 123,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node62"
+      },
+      "position" : {
+        "x" : -283.67744267170247,
+        "y" : -688.8832631331225
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "shared_name" : "ENTPD4",
+        "name" : "ENTPD4",
+        "SUID" : 122,
+        "node_fillColor" : "#FFFFFF",
+        "Acsl4" : "Idi1",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node61"
+      },
+      "position" : {
+        "x" : -611.6266919392806,
+        "y" : -23.607201121403705
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "shared_name" : "Sphingosine_1-phosphate",
+        "name" : "Sphingosine_1-phosphate",
+        "SUID" : 121,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node60"
+      },
+      "position" : {
+        "x" : 179.62787806804363,
+        "y" : 9.996985890315045
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "shared_name" : "G06780",
+        "name" : "G06780",
+        "SUID" : 120,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node59"
+      },
+      "position" : {
+        "x" : 525.4654101115007,
+        "y" : 729.2475657242994
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "shared_name" : "G6PD",
+        "name" : "G6PD",
+        "SUID" : 119,
+        "node_fillColor" : "#00FFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node58"
+      },
+      "position" : {
+        "x" : 20.41108119304363,
+        "y" : -488.4797291975756
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "shared_name" : "Chloral_hydrate",
+        "name" : "Chloral_hydrate",
+        "SUID" : 118,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node57"
+      },
+      "position" : {
+        "x" : 492.2522143107194,
+        "y" : 163.48343608562755
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "shared_name" : "C01172",
+        "name" : "C01172",
+        "SUID" : 117,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node56"
+      },
+      "position" : {
+        "x" : -20.649625899241528,
+        "y" : -198.98262073810292
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "shared_name" : "SGPL1",
+        "name" : "SGPL1",
+        "SUID" : 116,
+        "node_fillColor" : "#FFFF00",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node55"
+      },
+      "position" : {
+        "x" : 48.92445552165691,
+        "y" : -68.59771015460683
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "shared_name" : "HCO3-",
+        "name" : "HCO3-",
+        "SUID" : 115,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node54"
+      },
+      "position" : {
+        "x" : -325.1612683552962,
+        "y" : -880.6694264632006
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "shared_name" : "C06002",
+        "name" : "C06002",
+        "SUID" : 114,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node53"
+      },
+      "position" : {
+        "x" : 73.02454554851238,
+        "y" : -385.79212238605214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "shared_name" : "EHHADH",
+        "name" : "EHHADH",
+        "SUID" : 113,
+        "node_fillColor" : "#0000FF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node52"
+      },
+      "position" : {
+        "x" : -114.09458744709309,
+        "y" : -518.8234334212084
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "shared_name" : "AUH",
+        "name" : "AUH",
+        "SUID" : 112,
+        "node_fillColor" : "#0000FF",
+        "Acsl4" : "Etnk1",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node51"
+      },
+      "position" : {
+        "x" : -351.0035535115462,
+        "y" : -584.24446918781
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "shared_name" : "ALDH9A1",
+        "name" : "ALDH9A1",
+        "SUID" : 111,
+        "node_fillColor" : "#0000FF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node50"
+      },
+      "position" : {
+        "x" : 312.96208369548503,
+        "y" : -380.03472187335683
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "shared_name" : "C16635",
+        "name" : "C16635",
+        "SUID" : 110,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node49"
+      },
+      "position" : {
+        "x" : -238.82926762287434,
+        "y" : 325.29437968914317
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "shared_name" : "UGT2B28",
+        "name" : "UGT2B28",
+        "SUID" : 109,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node48"
+      },
+      "position" : {
+        "x" : 301.7839983683366,
+        "y" : 542.6270212907057
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "shared_name" : "C01220",
+        "name" : "C01220",
+        "SUID" : 108,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node47"
+      },
+      "position" : {
+        "x" : -478.58061039631184,
+        "y" : 633.5824656266432
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "shared_name" : "5.SPHINGOLIPID_METABOLISM",
+        "name" : "5.SPHINGOLIPID_METABOLISM",
+        "SUID" : 107,
+        "node_fillColor" : "#FFFF00",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node46"
+      },
+      "position" : {
+        "x" : -387.254150390625,
+        "y" : 853.8004150390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "shared_name" : "GPI",
+        "name" : "GPI",
+        "SUID" : 106,
+        "node_fillColor" : "#00FFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node45"
+      },
+      "position" : {
+        "x" : -24.306272627757153,
+        "y" : -41.156883738591205
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "shared_name" : "Benzo[a]pyrene-4,5-oxide",
+        "name" : "Benzo[a]pyrene-4,5-oxide",
+        "SUID" : 105,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node44"
+      },
+      "position" : {
+        "x" : 330.88374507243816,
+        "y" : -833.6251759749193
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "shared_name" : "ETNK1",
+        "name" : "ETNK1",
+        "SUID" : 104,
+        "node_fillColor" : "#00CC00",
+        "Acsl4" : "LacZ",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node43"
+      },
+      "position" : {
+        "x" : -218.08598149006184,
+        "y" : -177.9066395979662
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "shared_name" : "1.BIOLOGICAL_OXIDATIONS",
+        "name" : "1.BIOLOGICAL_OXIDATIONS",
+        "SUID" : 103,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node42"
+      },
+      "position" : {
+        "x" : -202.81017750422757,
+        "y" : 993.3135828336377
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "shared_name" : "G09660",
+        "name" : "G09660",
+        "SUID" : 102,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node41"
+      },
+      "position" : {
+        "x" : 284.35978877361003,
+        "y" : 662.8571848649244
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "shared_name" : "Deoxycytidine",
+        "name" : "Deoxycytidine",
+        "SUID" : 101,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node40"
+      },
+      "position" : {
+        "x" : -526.4587842244368,
+        "y" : 157.92291972820567
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "CES2",
+        "name" : "CES2",
+        "SUID" : 100,
+        "node_fillColor" : "#009900",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node39"
+      },
+      "position" : {
+        "x" : -102.93762028400715,
+        "y" : 414.2028879899244
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "shared_name" : "IDO1",
+        "name" : "IDO1",
+        "SUID" : 99,
+        "node_fillColor" : "#FF9933",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node38"
+      },
+      "position" : {
+        "x" : 307.17547607421875,
+        "y" : -681.430908203125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "Guanine",
+        "name" : "Guanine",
+        "SUID" : 98,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node37"
+      },
+      "position" : {
+        "x" : -693.6842480916243,
+        "y" : 237.09891460125255
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "shared_name" : "9.METABOLISM_OF_AMINO_ACIDS_AND_DERIVATIVES",
+        "name" : "9.METABOLISM_OF_AMINO_ACIDS_AND_DERIVATIVES",
+        "SUID" : 97,
+        "node_fillColor" : "#FF9933",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node36"
+      },
+      "position" : {
+        "x" : -409.8153076171875,
+        "y" : 937.7791748046875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "shared_name" : "PFKFB3",
+        "name" : "PFKFB3",
+        "SUID" : 96,
+        "node_fillColor" : "#00FFFF",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node35"
+      },
+      "position" : {
+        "x" : 68.83013331706707,
+        "y" : 197.65210673992442
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "shared_name" : "NMN",
+        "name" : "NMN",
+        "SUID" : 95,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node34"
+      },
+      "position" : {
+        "x" : -803.9800854939681,
+        "y" : 35.087256886408795
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "Melatonin",
+        "name" : "Melatonin",
+        "SUID" : 94,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node33"
+      },
+      "position" : {
+        "x" : 382.7475908976335,
+        "y" : -606.5932240706225
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "shared_name" : "GMP",
+        "name" : "GMP",
+        "SUID" : 93,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node32"
+      },
+      "position" : {
+        "x" : -585.4197217244368,
+        "y" : 94.78430888836192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "HK2",
+        "name" : "HK2",
+        "SUID" : 92,
+        "node_fillColor" : "#00FFFF",
+        "Acsl4" : "St8sia1",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node31"
+      },
+      "position" : {
+        "x" : -19.571378828929028,
+        "y" : -345.43484546954824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "shared_name" : "UGCG",
+        "name" : "UGCG",
+        "SUID" : 91,
+        "node_fillColor" : "#FFFF00",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node30"
+      },
+      "position" : {
+        "x" : 497.31950557048503,
+        "y" : 394.0642161149244
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "Ceramide",
+        "name" : "Ceramide",
+        "SUID" : 90,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node29"
+      },
+      "position" : {
+        "x" : 386.2943743448991,
+        "y" : 260.72980449383067
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "shared_name" : "ANPEP",
+        "name" : "ANPEP",
+        "SUID" : 89,
+        "node_fillColor" : "#FFFFFF",
+        "Acsl4" : "Cox15",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node28"
+      },
+      "position" : {
+        "x" : -6.66099369709309,
+        "y" : -1239.473015330388
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "11.METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450",
+        "name" : "11.METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450",
+        "SUID" : 88,
+        "node_fillColor" : "#000000",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node27"
+      },
+      "position" : {
+        "x" : -553.6059601910849,
+        "y" : 1022.6788330078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "GNS",
+        "name" : "GNS",
+        "SUID" : 87,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node26"
+      },
+      "position" : {
+        "x" : 400.48307978923503,
+        "y" : 728.5762400407057
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "shared_name" : "(2E)-Decenoyl-CoA",
+        "name" : "(2E)-Decenoyl-CoA",
+        "SUID" : 86,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node25"
+      },
+      "position" : {
+        "x" : -277.12800419513997,
+        "y" : -554.1835866194506
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "N-Ribosylnicotinamide",
+        "name" : "N-Ribosylnicotinamide",
+        "SUID" : 85,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node24"
+      },
+      "position" : {
+        "x" : -793.3690625447493,
+        "y" : 141.0932383317213
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "Ins(1,4,5)P3",
+        "name" : "Ins(1,4,5)P3",
+        "SUID" : 84,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node23"
+      },
+      "position" : {
+        "x" : -187.95524418537434,
+        "y" : 477.39691875164317
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "LPCAT2",
+        "name" : "LPCAT2",
+        "SUID" : 83,
+        "node_fillColor" : "#00CC00",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node22"
+      },
+      "position" : {
+        "x" : 785.0652025919694,
+        "y" : -168.93877460773183
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "MTA",
+        "name" : "MTA",
+        "SUID" : 82,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node21"
+      },
+      "position" : {
+        "x" : -439.2609692830306,
+        "y" : 171.06946513836192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "10.DRUG_METABOLISM_OTHER_ENZYMES",
+        "name" : "10.DRUG_METABOLISM_OTHER_ENZYMES",
+        "SUID" : 81,
+        "node_fillColor" : "#009900",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node20"
+      },
+      "position" : {
+        "x" : -623.698968289705,
+        "y" : 973.5785490862588
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "6.INOSITOL_PHOSPHATE_METABOLISM",
+        "name" : "6.INOSITOL_PHOSPHATE_METABOLISM",
+        "SUID" : 80,
+        "node_fillColor" : "#990099",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node19"
+      },
+      "position" : {
+        "x" : -625.8366088867188,
+        "y" : 903.9166870117188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "AGPAT3",
+        "name" : "AGPAT3",
+        "SUID" : 79,
+        "node_fillColor" : "#00CC00",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node18"
+      },
+      "position" : {
+        "x" : 542.2435473185319,
+        "y" : -92.85881855304433
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "PLCE1",
+        "name" : "PLCE1",
+        "SUID" : 78,
+        "node_fillColor" : "#990099",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node17"
+      },
+      "position" : {
+        "x" : -22.488615157054028,
+        "y" : 342.1212229508619
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "INPP5K",
+        "name" : "INPP5K",
+        "SUID" : 77,
+        "node_fillColor" : "#990099",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node16"
+      },
+      "position" : {
+        "x" : -340.7566968220931,
+        "y" : 571.1104807633619
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "MTHFD1",
+        "name" : "MTHFD1",
+        "SUID" : 76,
+        "node_fillColor" : "#009966",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node15"
+      },
+      "position" : {
+        "x" : 659.2450121622819,
+        "y" : -632.6522450667162
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "GLB1",
+        "name" : "GLB1",
+        "SUID" : 75,
+        "node_fillColor" : "#FFFF00",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node14"
+      },
+      "position" : {
+        "x" : 595.981614945485,
+        "y" : 630.3842844742994
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "Vitamin_PP",
+        "name" : "Vitamin_PP",
+        "SUID" : 74,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node13"
+      },
+      "position" : {
+        "x" : -921.9501172322493,
+        "y" : 182.57730815594005
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "Adenine",
+        "name" : "Adenine",
+        "SUID" : 73,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node12"
+      },
+      "position" : {
+        "x" : -700.9358960408431,
+        "y" : 319.14411113445567
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "Glucosylceramide",
+        "name" : "Glucosylceramide",
+        "SUID" : 72,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node11"
+      },
+      "position" : {
+        "x" : 593.0740526896257,
+        "y" : 503.78693340008067
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "shared_name" : "ALDH3B1",
+        "name" : "ALDH3B1",
+        "SUID" : 71,
+        "node_fillColor" : "#000000",
+        "Acsl4" : "B4galt4",
+        "node_shape" : "roundrect",
+        "selected" : false,
+        "canonicalName" : "node10"
+      },
+      "position" : {
+        "x" : 617.7712267618913,
+        "y" : 183.13199565594005
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "shared_name" : "Phosphoethanolamine",
+        "name" : "Phosphoethanolamine",
+        "SUID" : 70,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node9"
+      },
+      "position" : {
+        "x" : -109.01041996662434,
+        "y" : -115.7191395979662
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "shared_name" : "MCCC2",
+        "name" : "MCCC2",
+        "SUID" : 69,
+        "node_fillColor" : "#0000FF",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node8"
+      },
+      "position" : {
+        "x" : -119.40617370605469,
+        "y" : -835.5586211776128
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "shared_name" : "ASMT",
+        "name" : "ASMT",
+        "SUID" : 68,
+        "node_fillColor" : "#FF9933",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node7"
+      },
+      "position" : {
+        "x" : 349.74926936443035,
+        "y" : -473.79488422687245
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "shared_name" : "5-Hydroxyindoleacetate",
+        "name" : "5-Hydroxyindoleacetate",
+        "SUID" : 67,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node6"
+      },
+      "position" : {
+        "x" : 485.22222900390625,
+        "y" : -278.556640625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "shared_name" : "4.METABOLISM_OF_CARBOHYDRATES",
+        "name" : "4.METABOLISM_OF_CARBOHYDRATES",
+        "SUID" : 66,
+        "node_fillColor" : "#00FFFF",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node5"
+      },
+      "position" : {
+        "x" : -631.0220336914062,
+        "y" : 852.4459260113974
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "shared_name" : "2.VALINE,_LEUCINE_AND_ISOLEUCINE_DEGRADATION",
+        "name" : "2.VALINE,_LEUCINE_AND_ISOLEUCINE_DEGRADATION",
+        "SUID" : 65,
+        "node_fillColor" : "#0000FF",
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node4"
+      },
+      "position" : {
+        "x" : -889.4978637695312,
+        "y" : 875.4724089495401
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "shared_name" : "Phosphatidate",
+        "name" : "Phosphatidate",
+        "SUID" : 64,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node3"
+      },
+      "position" : {
+        "x" : 501.63777339275066,
+        "y" : 14.852210499690045
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "shared_name" : "UGT1A6",
+        "name" : "UGT1A6",
+        "SUID" : 63,
+        "node_fillColor" : "#FF0033",
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node2"
+      },
+      "position" : {
+        "x" : 60.065904496266285,
+        "y" : 659.0054392594557
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "shared_name" : "R-S-Cysteinylglycine",
+        "name" : "R-S-Cysteinylglycine",
+        "SUID" : 62,
+        "node_fillColor" : "#FFFFFF",
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node1"
+      },
+      "position" : {
+        "x" : 91.52358424480144,
+        "y" : -1183.315056346013
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "255",
+        "source" : "191",
+        "target" : "77",
+        "shared_name" : "C01272 (DirectedEdge) INPP5K",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C01272 (DirectedEdge) INPP5K",
+        "interaction" : "DirectedEdge",
+        "SUID" : 255,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "254",
+        "source" : "191",
+        "target" : "137",
+        "shared_name" : "C01272 (DirectedEdge) MINPP1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C01272 (DirectedEdge) MINPP1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 254,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "257",
+        "source" : "188",
+        "target" : "113",
+        "shared_name" : "3-Methylcrotonyl-CoA (DirectedEdge) EHHADH",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylcrotonyl-CoA (DirectedEdge) EHHADH",
+        "interaction" : "DirectedEdge",
+        "SUID" : 257,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "256",
+        "source" : "188",
+        "target" : "180",
+        "shared_name" : "3-Methylcrotonyl-CoA (DirectedEdge) ECHS1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylcrotonyl-CoA (DirectedEdge) ECHS1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 256,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "258",
+        "source" : "187",
+        "target" : "130",
+        "shared_name" : "Fatty_acid (DirectedEdge) LIPC",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Fatty_acid (DirectedEdge) LIPC",
+        "interaction" : "DirectedEdge",
+        "SUID" : 258,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "source" : "186",
+        "target" : "111",
+        "shared_name" : "ALDH1B1 (DirectedEdge) ALDH9A1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH1B1 (DirectedEdge) ALDH9A1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 262,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "261",
+        "source" : "186",
+        "target" : "187",
+        "shared_name" : "ALDH1B1 (DirectedEdge) Fatty_acid",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH1B1 (DirectedEdge) Fatty_acid",
+        "interaction" : "DirectedEdge",
+        "SUID" : 261,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "260",
+        "source" : "186",
+        "target" : "136",
+        "shared_name" : "ALDH1B1 (DirectedEdge) cis-3-Chloro-2-propenal",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH1B1 (DirectedEdge) cis-3-Chloro-2-propenal",
+        "interaction" : "DirectedEdge",
+        "SUID" : 260,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "259",
+        "source" : "186",
+        "target" : "67",
+        "shared_name" : "ALDH1B1 (DirectedEdge) 5-Hydroxyindoleacetate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH1B1 (DirectedEdge) 5-Hydroxyindoleacetate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 259,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "source" : "183",
+        "target" : "124",
+        "shared_name" : "APRT (DirectedEdge) PPA1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "APRT (DirectedEdge) PPA1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 237,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "source" : "183",
+        "target" : "93",
+        "shared_name" : "APRT (DirectedEdge) GMP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "APRT (DirectedEdge) GMP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 236,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "source" : "182",
+        "target" : "108",
+        "shared_name" : "INPP1 (DirectedEdge) C01220",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "INPP1 (DirectedEdge) C01220",
+        "interaction" : "DirectedEdge",
+        "SUID" : 235,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "source" : "182",
+        "target" : "184",
+        "shared_name" : "INPP1 (DirectedEdge) C04063",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "INPP1 (DirectedEdge) C04063",
+        "interaction" : "DirectedEdge",
+        "SUID" : 234,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "source" : "181",
+        "target" : "143",
+        "shared_name" : "MDH2 (DirectedEdge) LOC643031",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MDH2 (DirectedEdge) LOC643031",
+        "interaction" : "DirectedEdge",
+        "SUID" : 241,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "source" : "180",
+        "target" : "178",
+        "shared_name" : "ECHS1 (DirectedEdge) ACADL",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ECHS1 (DirectedEdge) ACADL",
+        "interaction" : "DirectedEdge",
+        "SUID" : 242,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "source" : "179",
+        "target" : "184",
+        "shared_name" : "INPP4A (DirectedEdge) C04063",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "INPP4A (DirectedEdge) C04063",
+        "interaction" : "DirectedEdge",
+        "SUID" : 249,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "source" : "177",
+        "target" : "185",
+        "shared_name" : "Spermine (DirectedEdge) SMS",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Spermine (DirectedEdge) SMS",
+        "interaction" : "DirectedEdge",
+        "SUID" : 216,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "source" : "177",
+        "target" : "126",
+        "shared_name" : "Spermine (DirectedEdge) SMOX",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Spermine (DirectedEdge) SMOX",
+        "interaction" : "DirectedEdge",
+        "SUID" : 215,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "source" : "175",
+        "target" : "111",
+        "shared_name" : "ALDH2 (DirectedEdge) ALDH9A1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH2 (DirectedEdge) ALDH9A1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 223,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "source" : "175",
+        "target" : "136",
+        "shared_name" : "ALDH2 (DirectedEdge) cis-3-Chloro-2-propenal",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH2 (DirectedEdge) cis-3-Chloro-2-propenal",
+        "interaction" : "DirectedEdge",
+        "SUID" : 222,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "source" : "175",
+        "target" : "186",
+        "shared_name" : "ALDH2 (DirectedEdge) ALDH1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH2 (DirectedEdge) ALDH1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 221,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "source" : "175",
+        "target" : "114",
+        "shared_name" : "ALDH2 (DirectedEdge) C06002",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH2 (DirectedEdge) C06002",
+        "interaction" : "DirectedEdge",
+        "SUID" : 220,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "source" : "175",
+        "target" : "67",
+        "shared_name" : "ALDH2 (DirectedEdge) 5-Hydroxyindoleacetate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH2 (DirectedEdge) 5-Hydroxyindoleacetate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 219,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "source" : "175",
+        "target" : "163",
+        "shared_name" : "ALDH2 (DirectedEdge) 3-Aminopropanal",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH2 (DirectedEdge) 3-Aminopropanal",
+        "interaction" : "DirectedEdge",
+        "SUID" : 218,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "source" : "172",
+        "target" : "160",
+        "shared_name" : "Arachidonate (DirectedEdge) PLA2G2D",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Arachidonate (DirectedEdge) PLA2G2D",
+        "interaction" : "DirectedEdge",
+        "SUID" : 229,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "source" : "172",
+        "target" : "167",
+        "shared_name" : "Arachidonate (DirectedEdge) PTGS2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Arachidonate (DirectedEdge) PTGS2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 228,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "source" : "171",
+        "target" : "64",
+        "shared_name" : "LCLAT1 (DirectedEdge) Phosphatidate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "LCLAT1 (DirectedEdge) Phosphatidate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 233,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "source" : "169",
+        "target" : "159",
+        "shared_name" : "ADH7 (DirectedEdge) Trichloroethanol",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ADH7 (DirectedEdge) Trichloroethanol",
+        "interaction" : "DirectedEdge",
+        "SUID" : 192,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "168",
+        "target" : "76",
+        "shared_name" : "10-Formyl-THF (DirectedEdge) MTHFD1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "10-Formyl-THF (DirectedEdge) MTHFD1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 194,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "source" : "168",
+        "target" : "139",
+        "shared_name" : "10-Formyl-THF (DirectedEdge) MTHFD2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "10-Formyl-THF (DirectedEdge) MTHFD2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 193,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "source" : "166",
+        "target" : "102",
+        "shared_name" : "GUSB (DirectedEdge) G09660",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GUSB (DirectedEdge) G09660",
+        "interaction" : "DirectedEdge",
+        "SUID" : 200,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "source" : "166",
+        "target" : "142",
+        "shared_name" : "GUSB (DirectedEdge) Glucuronide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GUSB (DirectedEdge) Glucuronide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 199,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "source" : "166",
+        "target" : "127",
+        "shared_name" : "GUSB (DirectedEdge) SN-38",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GUSB (DirectedEdge) SN-38",
+        "interaction" : "DirectedEdge",
+        "SUID" : 198,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "source" : "164",
+        "target" : "93",
+        "shared_name" : "NT5C3 (DirectedEdge) GMP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "NT5C3 (DirectedEdge) GMP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 204,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "source" : "164",
+        "target" : "85",
+        "shared_name" : "NT5C3 (DirectedEdge) N-Ribosylnicotinamide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "NT5C3 (DirectedEdge) N-Ribosylnicotinamide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 203,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "source" : "163",
+        "target" : "186",
+        "shared_name" : "3-Aminopropanal (DirectedEdge) ALDH1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Aminopropanal (DirectedEdge) ALDH1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 213,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "source" : "163",
+        "target" : "126",
+        "shared_name" : "3-Aminopropanal (DirectedEdge) SMOX",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Aminopropanal (DirectedEdge) SMOX",
+        "interaction" : "DirectedEdge",
+        "SUID" : 212,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "source" : "161",
+        "target" : "74",
+        "shared_name" : "NAMPT (DirectedEdge) Vitamin_PP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "NAMPT (DirectedEdge) Vitamin_PP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 306,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "source" : "160",
+        "target" : "149",
+        "shared_name" : "PLA2G2D (DirectedEdge) C05212",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PLA2G2D (DirectedEdge) C05212",
+        "interaction" : "DirectedEdge",
+        "SUID" : 310,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "source" : "160",
+        "target" : "146",
+        "shared_name" : "PLA2G2D (DirectedEdge) Linolenate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PLA2G2D (DirectedEdge) Linolenate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 309,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "320",
+        "source" : "158",
+        "target" : "101",
+        "shared_name" : "CDA (DirectedEdge) Deoxycytidine",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "CDA (DirectedEdge) Deoxycytidine",
+        "interaction" : "DirectedEdge",
+        "SUID" : 320,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "322",
+        "source" : "156",
+        "target" : "125",
+        "shared_name" : "MGST2 (DirectedEdge) R-S-Glutathione",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MGST2 (DirectedEdge) R-S-Glutathione",
+        "interaction" : "DirectedEdge",
+        "SUID" : 322,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "321",
+        "source" : "156",
+        "target" : "105",
+        "shared_name" : "MGST2 (DirectedEdge) Benzo[a]pyrene-4,5-oxide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MGST2 (DirectedEdge) Benzo[a]pyrene-4,5-oxide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 321,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "source" : "155",
+        "target" : "152",
+        "shared_name" : "Estrone (DirectedEdge) UGT1A1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Estrone (DirectedEdge) UGT1A1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 295,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "source" : "155",
+        "target" : "63",
+        "shared_name" : "Estrone (DirectedEdge) UGT1A6",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Estrone (DirectedEdge) UGT1A6",
+        "interaction" : "DirectedEdge",
+        "SUID" : 294,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "source" : "155",
+        "target" : "189",
+        "shared_name" : "Estrone (DirectedEdge) SULT1E1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Estrone (DirectedEdge) SULT1E1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 293,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "source" : "154",
+        "target" : "165",
+        "shared_name" : "SHMT1 (DirectedEdge) MTHFR",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "SHMT1 (DirectedEdge) MTHFR",
+        "interaction" : "DirectedEdge",
+        "SUID" : 297,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "source" : "154",
+        "target" : "111",
+        "shared_name" : "SHMT1 (DirectedEdge) ALDH9A1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "SHMT1 (DirectedEdge) ALDH9A1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 296,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "source" : "153",
+        "target" : "159",
+        "shared_name" : "ADH1A (DirectedEdge) Trichloroethanol",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ADH1A (DirectedEdge) Trichloroethanol",
+        "interaction" : "DirectedEdge",
+        "SUID" : 299,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "source" : "152",
+        "target" : "142",
+        "shared_name" : "UGT1A1 (DirectedEdge) Glucuronide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "UGT1A1 (DirectedEdge) Glucuronide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 298,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "source" : "150",
+        "target" : "73",
+        "shared_name" : "MTAP (DirectedEdge) Adenine",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MTAP (DirectedEdge) Adenine",
+        "interaction" : "DirectedEdge",
+        "SUID" : 301,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "303",
+        "source" : "148",
+        "target" : "121",
+        "shared_name" : "PPAP2A (DirectedEdge) Sphingosine_1-phosphate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PPAP2A (DirectedEdge) Sphingosine_1-phosphate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 303,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "302",
+        "source" : "147",
+        "target" : "90",
+        "shared_name" : "GALC (DirectedEdge) Ceramide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GALC (DirectedEdge) Ceramide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 302,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "source" : "146",
+        "target" : "173",
+        "shared_name" : "Linolenate (DirectedEdge) FADS2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Linolenate (DirectedEdge) FADS2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 277,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "source" : "145",
+        "target" : "181",
+        "shared_name" : "NDUFV1 (DirectedEdge) MDH2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "NDUFV1 (DirectedEdge) MDH2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 279,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "source" : "144",
+        "target" : "118",
+        "shared_name" : "ADH5 (DirectedEdge) Chloral_hydrate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ADH5 (DirectedEdge) Chloral_hydrate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 281,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "source" : "144",
+        "target" : "136",
+        "shared_name" : "ADH5 (DirectedEdge) cis-3-Chloro-2-propenal",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ADH5 (DirectedEdge) cis-3-Chloro-2-propenal",
+        "interaction" : "DirectedEdge",
+        "SUID" : 280,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "source" : "143",
+        "target" : "133",
+        "shared_name" : "LOC643031 (DirectedEdge) HADHA",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "LOC643031 (DirectedEdge) HADHA",
+        "interaction" : "DirectedEdge",
+        "SUID" : 285,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "269",
+        "source" : "140",
+        "target" : "189",
+        "shared_name" : "PAPSS2 (DirectedEdge) SULT1E1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PAPSS2 (DirectedEdge) SULT1E1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 269,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "268",
+        "source" : "140",
+        "target" : "124",
+        "shared_name" : "PAPSS2 (DirectedEdge) PPA1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PAPSS2 (DirectedEdge) PPA1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 268,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "271",
+        "source" : "135",
+        "target" : "115",
+        "shared_name" : "MCCC1 (DirectedEdge) HCO3-",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MCCC1 (DirectedEdge) HCO3-",
+        "interaction" : "DirectedEdge",
+        "SUID" : 271,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "source" : "135",
+        "target" : "188",
+        "shared_name" : "MCCC1 (DirectedEdge) 3-Methylcrotonyl-CoA",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MCCC1 (DirectedEdge) 3-Methylcrotonyl-CoA",
+        "interaction" : "DirectedEdge",
+        "SUID" : 270,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "source" : "134",
+        "target" : "64",
+        "shared_name" : "CDS1 (DirectedEdge) Phosphatidate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "CDS1 (DirectedEdge) Phosphatidate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 275,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "253",
+        "source" : "132",
+        "target" : "190",
+        "shared_name" : "GSH (DirectedEdge) GSR",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GSH (DirectedEdge) GSR",
+        "interaction" : "DirectedEdge",
+        "SUID" : 253,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "252",
+        "source" : "132",
+        "target" : "156",
+        "shared_name" : "GSH (DirectedEdge) MGST2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GSH (DirectedEdge) MGST2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 252,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "source" : "131",
+        "target" : "115",
+        "shared_name" : "PC (DirectedEdge) HCO3-",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PC (DirectedEdge) HCO3-",
+        "interaction" : "DirectedEdge",
+        "SUID" : 251,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "250",
+        "source" : "131",
+        "target" : "181",
+        "shared_name" : "PC (DirectedEdge) MDH2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PC (DirectedEdge) MDH2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 250,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "266",
+        "source" : "128",
+        "target" : "151",
+        "shared_name" : "1,2-Diacylglycerol (DirectedEdge) CEL",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "1,2-Diacylglycerol (DirectedEdge) CEL",
+        "interaction" : "DirectedEdge",
+        "SUID" : 266,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "265",
+        "source" : "128",
+        "target" : "130",
+        "shared_name" : "1,2-Diacylglycerol (DirectedEdge) LIPC",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "1,2-Diacylglycerol (DirectedEdge) LIPC",
+        "interaction" : "DirectedEdge",
+        "SUID" : 265,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "264",
+        "source" : "128",
+        "target" : "78",
+        "shared_name" : "1,2-Diacylglycerol (DirectedEdge) PLCE1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "1,2-Diacylglycerol (DirectedEdge) PLCE1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 264,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "263",
+        "source" : "128",
+        "target" : "148",
+        "shared_name" : "1,2-Diacylglycerol (DirectedEdge) PPAP2A",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "1,2-Diacylglycerol (DirectedEdge) PPAP2A",
+        "interaction" : "DirectedEdge",
+        "SUID" : 263,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "267",
+        "source" : "125",
+        "target" : "141",
+        "shared_name" : "R-S-Glutathione (DirectedEdge) GGT6",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "R-S-Glutathione (DirectedEdge) GGT6",
+        "interaction" : "DirectedEdge",
+        "SUID" : 267,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "source" : "123",
+        "target" : "135",
+        "shared_name" : "3-Methylglutaconyl-CoA (DirectedEdge) MCCC1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylglutaconyl-CoA (DirectedEdge) MCCC1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 240,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "source" : "123",
+        "target" : "112",
+        "shared_name" : "3-Methylglutaconyl-CoA (DirectedEdge) AUH",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylglutaconyl-CoA (DirectedEdge) AUH",
+        "interaction" : "DirectedEdge",
+        "SUID" : 239,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "source" : "123",
+        "target" : "69",
+        "shared_name" : "3-Methylglutaconyl-CoA (DirectedEdge) MCCC2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylglutaconyl-CoA (DirectedEdge) MCCC2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 238,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "source" : "120",
+        "target" : "75",
+        "shared_name" : "G06780 (DirectedEdge) GLB1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "G06780 (DirectedEdge) GLB1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 243,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "source" : "119",
+        "target" : "190",
+        "shared_name" : "G6PD (DirectedEdge) GSR",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "G6PD (DirectedEdge) GSR",
+        "interaction" : "DirectedEdge",
+        "SUID" : 245,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "source" : "119",
+        "target" : "92",
+        "shared_name" : "G6PD (DirectedEdge) HK2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "G6PD (DirectedEdge) HK2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 244,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "247",
+        "source" : "118",
+        "target" : "169",
+        "shared_name" : "Chloral_hydrate (DirectedEdge) ADH7",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Chloral_hydrate (DirectedEdge) ADH7",
+        "interaction" : "DirectedEdge",
+        "SUID" : 247,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "source" : "118",
+        "target" : "153",
+        "shared_name" : "Chloral_hydrate (DirectedEdge) ADH1A",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Chloral_hydrate (DirectedEdge) ADH1A",
+        "interaction" : "DirectedEdge",
+        "SUID" : 246,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "248",
+        "source" : "117",
+        "target" : "106",
+        "shared_name" : "C01172 (DirectedEdge) GPI",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C01172 (DirectedEdge) GPI",
+        "interaction" : "DirectedEdge",
+        "SUID" : 248,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "source" : "116",
+        "target" : "121",
+        "shared_name" : "SGPL1 (DirectedEdge) Sphingosine_1-phosphate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "SGPL1 (DirectedEdge) Sphingosine_1-phosphate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 217,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "source" : "114",
+        "target" : "113",
+        "shared_name" : "C06002 (DirectedEdge) EHHADH",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C06002 (DirectedEdge) EHHADH",
+        "interaction" : "DirectedEdge",
+        "SUID" : 225,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "source" : "114",
+        "target" : "186",
+        "shared_name" : "C06002 (DirectedEdge) ALDH1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C06002 (DirectedEdge) ALDH1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 224,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "source" : "110",
+        "target" : "158",
+        "shared_name" : "C16635 (DirectedEdge) CDA",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C16635 (DirectedEdge) CDA",
+        "interaction" : "DirectedEdge",
+        "SUID" : 227,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "source" : "110",
+        "target" : "100",
+        "shared_name" : "C16635 (DirectedEdge) CES2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C16635 (DirectedEdge) CES2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 226,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "232",
+        "source" : "109",
+        "target" : "142",
+        "shared_name" : "UGT2B28 (DirectedEdge) Glucuronide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "UGT2B28 (DirectedEdge) Glucuronide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 232,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "source" : "109",
+        "target" : "159",
+        "shared_name" : "UGT2B28 (DirectedEdge) Trichloroethanol",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "UGT2B28 (DirectedEdge) Trichloroethanol",
+        "interaction" : "DirectedEdge",
+        "SUID" : 231,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "source" : "108",
+        "target" : "77",
+        "shared_name" : "C01220 (DirectedEdge) INPP5K",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C01220 (DirectedEdge) INPP5K",
+        "interaction" : "DirectedEdge",
+        "SUID" : 230,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "source" : "106",
+        "target" : "157",
+        "shared_name" : "GPI (DirectedEdge) C05345",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GPI (DirectedEdge) C05345",
+        "interaction" : "DirectedEdge",
+        "SUID" : 195,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "105",
+        "target" : "174",
+        "shared_name" : "Benzo[a]pyrene-4,5-oxide (DirectedEdge) CYP1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Benzo[a]pyrene-4,5-oxide (DirectedEdge) CYP1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 196,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "source" : "101",
+        "target" : "164",
+        "shared_name" : "Deoxycytidine (DirectedEdge) NT5C3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Deoxycytidine (DirectedEdge) NT5C3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 197,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "source" : "100",
+        "target" : "127",
+        "shared_name" : "CES2 (DirectedEdge) SN-38",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "CES2 (DirectedEdge) SN-38",
+        "interaction" : "DirectedEdge",
+        "SUID" : 201,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "source" : "99",
+        "target" : "94",
+        "shared_name" : "IDO1 (DirectedEdge) Melatonin",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "IDO1 (DirectedEdge) Melatonin",
+        "interaction" : "DirectedEdge",
+        "SUID" : 202,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "source" : "98",
+        "target" : "176",
+        "shared_name" : "Guanine (DirectedEdge) PNP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Guanine (DirectedEdge) PNP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 206,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "source" : "98",
+        "target" : "183",
+        "shared_name" : "Guanine (DirectedEdge) APRT",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Guanine (DirectedEdge) APRT",
+        "interaction" : "DirectedEdge",
+        "SUID" : 205,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "source" : "96",
+        "target" : "157",
+        "shared_name" : "PFKFB3 (DirectedEdge) C05345",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PFKFB3 (DirectedEdge) C05345",
+        "interaction" : "DirectedEdge",
+        "SUID" : 207,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "source" : "95",
+        "target" : "161",
+        "shared_name" : "NMN (DirectedEdge) NAMPT",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "NMN (DirectedEdge) NAMPT",
+        "interaction" : "DirectedEdge",
+        "SUID" : 209,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "source" : "95",
+        "target" : "164",
+        "shared_name" : "NMN (DirectedEdge) NT5C3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "NMN (DirectedEdge) NT5C3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 208,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "source" : "94",
+        "target" : "174",
+        "shared_name" : "Melatonin (DirectedEdge) CYP1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Melatonin (DirectedEdge) CYP1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 210,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "source" : "93",
+        "target" : "122",
+        "shared_name" : "GMP (DirectedEdge) ENTPD4",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GMP (DirectedEdge) ENTPD4",
+        "interaction" : "DirectedEdge",
+        "SUID" : 214,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "source" : "92",
+        "target" : "117",
+        "shared_name" : "HK2 (DirectedEdge) C01172",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "HK2 (DirectedEdge) C01172",
+        "interaction" : "DirectedEdge",
+        "SUID" : 211,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "source" : "90",
+        "target" : "91",
+        "shared_name" : "Ceramide (DirectedEdge) UGCG",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Ceramide (DirectedEdge) UGCG",
+        "interaction" : "DirectedEdge",
+        "SUID" : 308,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "source" : "90",
+        "target" : "148",
+        "shared_name" : "Ceramide (DirectedEdge) PPAP2A",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Ceramide (DirectedEdge) PPAP2A",
+        "interaction" : "DirectedEdge",
+        "SUID" : 307,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "source" : "89",
+        "target" : "62",
+        "shared_name" : "ANPEP (DirectedEdge) R-S-Cysteinylglycine",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ANPEP (DirectedEdge) R-S-Cysteinylglycine",
+        "interaction" : "DirectedEdge",
+        "SUID" : 305,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "source" : "87",
+        "target" : "102",
+        "shared_name" : "GNS (DirectedEdge) G09660",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GNS (DirectedEdge) G09660",
+        "interaction" : "DirectedEdge",
+        "SUID" : 312,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "source" : "87",
+        "target" : "120",
+        "shared_name" : "GNS (DirectedEdge) G06780",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GNS (DirectedEdge) G06780",
+        "interaction" : "DirectedEdge",
+        "SUID" : 311,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "source" : "86",
+        "target" : "178",
+        "shared_name" : "(2E)-Decenoyl-CoA (DirectedEdge) ACADL",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "(2E)-Decenoyl-CoA (DirectedEdge) ACADL",
+        "interaction" : "DirectedEdge",
+        "SUID" : 315,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "source" : "86",
+        "target" : "133",
+        "shared_name" : "(2E)-Decenoyl-CoA (DirectedEdge) HADHA",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "(2E)-Decenoyl-CoA (DirectedEdge) HADHA",
+        "interaction" : "DirectedEdge",
+        "SUID" : 314,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "source" : "86",
+        "target" : "113",
+        "shared_name" : "(2E)-Decenoyl-CoA (DirectedEdge) EHHADH",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "(2E)-Decenoyl-CoA (DirectedEdge) EHHADH",
+        "interaction" : "DirectedEdge",
+        "SUID" : 313,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "source" : "85",
+        "target" : "176",
+        "shared_name" : "N-Ribosylnicotinamide (DirectedEdge) PNP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "N-Ribosylnicotinamide (DirectedEdge) PNP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 316,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "319",
+        "source" : "84",
+        "target" : "77",
+        "shared_name" : "Ins(1,4,5)P3 (DirectedEdge) INPP5K",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Ins(1,4,5)P3 (DirectedEdge) INPP5K",
+        "interaction" : "DirectedEdge",
+        "SUID" : 319,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "318",
+        "source" : "84",
+        "target" : "78",
+        "shared_name" : "Ins(1,4,5)P3 (DirectedEdge) PLCE1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Ins(1,4,5)P3 (DirectedEdge) PLCE1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 318,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "source" : "84",
+        "target" : "137",
+        "shared_name" : "Ins(1,4,5)P3 (DirectedEdge) MINPP1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Ins(1,4,5)P3 (DirectedEdge) MINPP1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 317,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "326",
+        "source" : "83",
+        "target" : "171",
+        "shared_name" : "LPCAT2 (DirectedEdge) LCLAT1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "LPCAT2 (DirectedEdge) LCLAT1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 326,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "325",
+        "source" : "83",
+        "target" : "149",
+        "shared_name" : "LPCAT2 (DirectedEdge) C05212",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "LPCAT2 (DirectedEdge) C05212",
+        "interaction" : "DirectedEdge",
+        "SUID" : 325,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "324",
+        "source" : "82",
+        "target" : "150",
+        "shared_name" : "MTA (DirectedEdge) MTAP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MTA (DirectedEdge) MTAP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 324,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "323",
+        "source" : "82",
+        "target" : "185",
+        "shared_name" : "MTA (DirectedEdge) SMS",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MTA (DirectedEdge) SMS",
+        "interaction" : "DirectedEdge",
+        "SUID" : 323,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "source" : "76",
+        "target" : "165",
+        "shared_name" : "MTHFD1 (DirectedEdge) MTHFR",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MTHFD1 (DirectedEdge) MTHFR",
+        "interaction" : "DirectedEdge",
+        "SUID" : 300,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "source" : "74",
+        "target" : "176",
+        "shared_name" : "Vitamin_PP (DirectedEdge) PNP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Vitamin_PP (DirectedEdge) PNP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 304,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "source" : "73",
+        "target" : "176",
+        "shared_name" : "Adenine (DirectedEdge) PNP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Adenine (DirectedEdge) PNP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 278,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "source" : "72",
+        "target" : "170",
+        "shared_name" : "Glucosylceramide (DirectedEdge) B4GALT6",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Glucosylceramide (DirectedEdge) B4GALT6",
+        "interaction" : "DirectedEdge",
+        "SUID" : 284,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "source" : "72",
+        "target" : "75",
+        "shared_name" : "Glucosylceramide (DirectedEdge) GLB1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Glucosylceramide (DirectedEdge) GLB1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 283,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "source" : "72",
+        "target" : "91",
+        "shared_name" : "Glucosylceramide (DirectedEdge) UGCG",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Glucosylceramide (DirectedEdge) UGCG",
+        "interaction" : "DirectedEdge",
+        "SUID" : 282,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "source" : "71",
+        "target" : "118",
+        "shared_name" : "ALDH3B1 (DirectedEdge) Chloral_hydrate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH3B1 (DirectedEdge) Chloral_hydrate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 286,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "source" : "70",
+        "target" : "116",
+        "shared_name" : "Phosphoethanolamine (DirectedEdge) SGPL1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Phosphoethanolamine (DirectedEdge) SGPL1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 290,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "source" : "70",
+        "target" : "104",
+        "shared_name" : "Phosphoethanolamine (DirectedEdge) ETNK1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Phosphoethanolamine (DirectedEdge) ETNK1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 289,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "source" : "69",
+        "target" : "188",
+        "shared_name" : "MCCC2 (DirectedEdge) 3-Methylcrotonyl-CoA",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MCCC2 (DirectedEdge) 3-Methylcrotonyl-CoA",
+        "interaction" : "DirectedEdge",
+        "SUID" : 288,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "69",
+        "target" : "115",
+        "shared_name" : "MCCC2 (DirectedEdge) HCO3-",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MCCC2 (DirectedEdge) HCO3-",
+        "interaction" : "DirectedEdge",
+        "SUID" : 287,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "source" : "68",
+        "target" : "94",
+        "shared_name" : "ASMT (DirectedEdge) Melatonin",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ASMT (DirectedEdge) Melatonin",
+        "interaction" : "DirectedEdge",
+        "SUID" : 292,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "source" : "68",
+        "target" : "67",
+        "shared_name" : "ASMT (DirectedEdge) 5-Hydroxyindoleacetate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ASMT (DirectedEdge) 5-Hydroxyindoleacetate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 291,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "source" : "64",
+        "target" : "148",
+        "shared_name" : "Phosphatidate (DirectedEdge) PPAP2A",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Phosphatidate (DirectedEdge) PPAP2A",
+        "interaction" : "DirectedEdge",
+        "SUID" : 273,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "272",
+        "source" : "64",
+        "target" : "79",
+        "shared_name" : "Phosphatidate (DirectedEdge) AGPAT3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Phosphatidate (DirectedEdge) AGPAT3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 272,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "source" : "63",
+        "target" : "142",
+        "shared_name" : "UGT1A6 (DirectedEdge) Glucuronide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "UGT1A6 (DirectedEdge) Glucuronide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 274,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "source" : "62",
+        "target" : "141",
+        "shared_name" : "R-S-Cysteinylglycine (DirectedEdge) GGT6",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "R-S-Cysteinylglycine (DirectedEdge) GGT6",
+        "interaction" : "DirectedEdge",
+        "SUID" : 276,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
